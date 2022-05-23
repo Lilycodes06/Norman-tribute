@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.5;
+    color: #333;
+}
+main {
+    margin-top: 40px;
+}
+.Norman {
+    width: 97%;
+    margin: auto;
+    background-color: #EEEEEE;
+    text-align: center;
+    color: #242422;
+    line-height: 4em;
+    padding-top: 20px;
+}
+.Norman h1 {
+    font-size: 40px;
+}
+.Norman p {
+    font-size: 17px;
+}
+.tribute-img {
+    background-color: white;
+    width: 98%;
+    margin: auto;
+}
+.tribute-img {
+    font-size: 15px;
+}
+.fig-caption {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.fig-caption p {
+    font-size: 17px;
+}
+.timeline {
+    padding: 20px;
+    font-size: 16px;
+}
+ul {
+    width: 40%;
+    margin: auto;
+}
+li {
+    font-size: 16px;
+    text-align: justify;
+    line-height: 20px;
+    padding-top: 20px;
+}
+.italics {
+    text-align: justify;
+    padding-top:20px ;
+    width: 40%;
+    margin: auto;
+    line-height: 20px;
+}
+.italics p {
+    font-size: 16px;
+}
+.prime {
+    padding-top: 10px;
+}
+.time p{
+    text-align: center;
+    font-size: 19px;
+    padding: 20px;
+}
+.time a {
+    color: #5A86AC;
+    font-size: 18px;
+}
